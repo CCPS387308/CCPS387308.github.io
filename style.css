@@ -1,1 +1,34 @@
+p {
+  text-color: blue;
+  background-color: pink;
+}
 
+ul {
+  font weight: bold;
+  text-decoration: underline;
+}
+
+ol {
+  font-size: 22pt;
+  font-family: Comic Sans;
+}
+
+h1 {
+  font-weight: bold;
+  background-image: src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rainforest-alliance.org%2Fspecies%2Fcapybara%2F&psig=AOvVaw2cKgGfzr5JBXY8kbmFf1Y2&ust=1680370713450000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjKku3ahv4CFQAAAAAdAAAAABAE"
+}
+
+header {
+  height: 20px;
+  width: 12px;
+}
+
+body {
+  background-image: src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffarewellpet.com%2F16-pros-and-cons-of-getting-a-cavapoo-a-guide-for-families%2F&psig=AOvVaw2Q2iD_zWoWhAMCwlParKxo&ust=1680370846377000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCD3q7bhv4CFQAAAAAdAAAAABAI"
+  text-color: red;
+}
+
+footer {
+  background-image: src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lonelyplanet.com%2Fnews%2Frottnest-island-quokka&psig=AOvVaw24j6WcwCpDbG-9U6drRpn8&ust=1680371117417000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPC6qrHchv4CFQAAAAAdAAAAABAD"
+  font-size: 12pt;
+}
